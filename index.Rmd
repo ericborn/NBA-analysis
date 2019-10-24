@@ -1,8 +1,19 @@
 ---
 title: "2003-2004 NBA Analysis"
 author: "Eric Born"
-output: html_document
+output: 
+  html_document:
+  fig_height: 7
+  fig_width: 9
+  keep_md: yes
+  toc: yes
+  toc_float: yes
 ---
+```{r setup, include=FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+```
+
 ```{r include=FALSE}
 #############
 # Start setup
