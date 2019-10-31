@@ -5,3 +5,10 @@ Prior to performing any analysis, I chose to review the dataset to look for dirt
 
 ### Report
 The full report and findings can be found here: https://ericborn.github.io/NBA-analysis/
+
+## Author
+**Eric Born**
+
+[**PORTFOLIO**](https://ericborn.github.io)
+
+[**GITHUB**](https://github.com/ericborn)
